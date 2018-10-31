@@ -1,0 +1,561 @@
+,title,Critic Score,Audience_Score,Genre,director,studio
+0,HALLOWEEN,79,76,Horror,David Gordon Green,Universal Pictures
+1,A STAR IS BORN,90,84,Drama,Bradley Cooper,Warner Bros. Pictures
+2,VENOM,30,87,Drama,Ruben Fleischer,Columbia Pictures
+3,GOOSEBUMPS 2: HAUNTED HALLOWEEN,47,54,Horror,Ari Sandel,Columbia Pictures
+4,FIRST MAN,88,63,Drama,Damien Chazelle,Universal Pictures
+5,THE HATE U GIVE,97,75,Drama,George Tillman Jr.,20th Century Fox
+6,SMALLFOOT,75,67,Action & Adventure,Karey Kirkpatrick,Warner Bros. Pictures
+7,NIGHT SCHOOL,28,47,Comedy,Malcolm D. Lee,Universal Pictures
+8,BAD TIMES AT THE EL ROYALE,73,75,Mystery & Suspense,Drew Goddard,20th Century Fox
+9,THE OLD MAN & THE GUN,90,62,Drama,David Lowery,Fox Searchlight Pictures
+10,THE HOUSE WITH A CLOCK IN ITS WALLS,66,48,Kids & Family,Eli Roth,Universal Pictures
+11,FREE SOLO,98,95,Documentary,Elizabeth Chai Vasarhelyi,Greenwich Entertainment
+12,THE SISTERS BROTHERS,85,64,Drama,Jacques Audiard,Annapurna Pictures
+13,COLETTE,87,75,Drama,Wash Westmoreland,Bleecker Street and 30WEST
+14,CRAZY RICH ASIANS,91,80,Comedy,Jon M. Chu,Warner Bros. Pictures
+15,THE NUN,26,40,Horror,Corin Hardy,Warner Bros. Pictures
+16,BEAUTIFUL BOY,67,77,Drama,Felix Van Groeningen,Amazon Studios
+17,A SIMPLE FAVOR,85,79,Drama,Felix Van Groeningen,Amazon Studios
+18,MID90S,78,87,Comedy,Jonah Hill,A24
+19,THE OATH,59,60,Comedy,Jonah Hill,A24
+20,INCREDIBLES 2,94,87,Action & Adventure,Brad Bird,Disney/Pixar
+21,CAN YOU EVER FORGIVE ME?,99,91,Drama,Marielle Heller,Fox Searchlight Pictures
+22,THE MEG,45,49,Action & Adventure,Jon Turteltaub,Warner Bros. Pictures
+23,HOTEL TRANSYLVANIA 3: SUMMER VACATION,58,48,Animation,Genndy Tartakovsky,Columbia Pictures / Sony Pictures Animation
+24,THE WIFE,85,80,Drama,Björn Runge,Sony Pictures Classics
+25,PEPPERMINT,9,76,Mystery & Suspense,Pierre Morel,STXfilms
+26,THE PREDATOR,32,43,Action & Adventure,Shane Black,20th Century Fox
+27,CHRISTOPHER ROBIN,71,86,Action & Adventure,Marc Forster,Walt Disney Pictures
+28,THE GUILTY (DEN SKYLDIGE),98,100,Mystery & Suspense,Gustav Möller,Magnolia Pictures
+29,THE HAPPY PRINCE,72,71,Drama,Rupert Everett,Sony Pictures Classics
+30,ALPHA,81,74,Drama,Albert Hughes,Sony Pictures
+31,ANT-MAN AND THE WASP,88,79,Action & Adventure,Peyton Reed,Walt Disney Pictures
+32,FAHRENHEIT 11/9,80,57,Documentary,Michael Moore,Briarcliff Entertainment
+33,SLENDER MAN,8,20,Horror,Sylvain White,Screen Gems
+34,WHITE BOY RICK,59,55,Horror,Sylvain White,Screen Gems
+35,STUDIO 54,90,82,Documentary,Matt Tyrnauer,Zeitgeist Films
+36,MANDY,92,70,Mystery & Suspense,Panos Cosmatos,RLJE Films
+37,WHAT THEY HAD,87,100,Drama,Elizabeth Chomko,Bleecker Street
+38,UNBROKEN: PATH TO REDEMPTION,39,86,Drama,Harold Cronk,Pure Flix
+39,MONSTERS AND MEN,83,86,Drama,Harold Cronk,Pure Flix
+40,1945,97,83,Art House & International,Ferenc Torok,Katapult Film
+41,LITTLE WOMEN,33,82,Art House & International,Ferenc Torok,Katapult Film
+42,WINGS OF DESIRE,98,94,Art House & International,Ferenc Torok,Katapult Film
+43,SEARCHING,93,89,Mystery & Suspense,Aneesh Chaganty,Screen Gems
+44,"LOVE, GILDA",88,86,Mystery & Suspense,Aneesh Chaganty,Screen Gems
+45,MATANGI/MAYA/M.I.A.,87,94,Mystery & Suspense,Aneesh Chaganty,Screen Gems
+46,"JULIET, NAKED",83,88,Comedy,Jesse Peretz,Lionsgate and Roadside Attractions
+47,PICK OF THE LITTER,100,91,Documentary,Dana Nachman,Sundance Selects
+48,MAD MAX: FURY ROAD,97,85,Action & Adventure,George Miller,Warner Bros.
+49,WONDER WOMAN,93,88,Drama,Patty Jenkins,Warner Bros. Pictures
+50,LOGAN,93,90,Drama,James Mangold,20th Century Fox
+51,STAR WARS: EPISODE VII - THE FORCE AWAKENS,93,87,Action & Adventure,J.J. Abrams,Walt Disney Pictures
+52,BABY DRIVER,93,86,Action & Adventure,Michael Curtiz,Warner Bros.
+53,ZOOTOPIA,97,92,Action & Adventure,Byron Howard,Walt Disney Animation Studios
+54,SEVEN SAMURAI (SHICHININ NO SAMURAI),100,97,Action & Adventure,Byron Howard,Walt Disney Animation Studios
+55,UP,98,90,Action & Adventure,Byron Howard,Walt Disney Animation Studios
+56,THE JUNGLE BOOK,95,86,Action & Adventure,Jon Favreau,Walt Disney Pictures
+57,LAWRENCE OF ARABIA,98,93,Drama,David Lean,Columbia Pictures
+58,WAR FOR THE PLANET OF THE APES,93,84,Drama,Matt Reeves,20th Century Fox
+59,SPIDER-MAN: HOMECOMING,92,88,Drama,Jon Watts,Sony Pictures
+60,CAPTAIN AMERICA: CIVIL WAR,91,89,Action & Adventure,Anthony Russo,Walt Disney Pictures
+61,MOANA,96,89,Action & Adventure,Ron Clements,Walt Disney Pictures
+62,ALIENS,99,94,Action & Adventure,James Cameron,20th Century Fox Film Corporat
+63,THE LEGO MOVIE,96,87,Action & Adventure,Phil Lord,Warner Bros. Pictures
+64,WALL-E,96,89,Action & Adventure,Andrew Stanton,Walt Disney Pictures
+65,STAR WARS: EPISODE IV - A NEW HOPE,93,96,Drama,George Lucas,20th Century Fox
+66,KUBO AND THE TWO STRINGS,97,86,Action & Adventure,Travis Knight (II),Focus Features
+67,MISSION: IMPOSSIBLE ROGUE NATION,93,87,Action & Adventure,Christopher McQuarrie,Paramount Pictures
+68,THE AFRICAN QUEEN,98,86,Action & Adventure,Christopher McQuarrie,Paramount Pictures
+69,MARVEL'S THE AVENGERS,92,91,Action & Adventure,Joss Whedon,Walt Disney Pictures
+70,STAR WARS: EPISODE V - THE EMPIRE STRIKES BACK,95,97,Drama,Irvin Kershner,Twentieth Century Fox
+71,THE FRENCH CONNECTION,98,87,Drama,William Friedkin,20th Century Fox
+72,HUNT FOR THE WILDERPEOPLE,97,91,Action & Adventure,Taika Waititi,Piki Films
+73,IRON MAN,93,91,Action & Adventure,Jon Favreau,Paramount Pictures
+74,ALL IS LOST 2013,94,63,Mystery & Suspense,J.C. Chandor,Lionsgate/Roadside Attractions
+75,ASSAULT ON PRECINCT 13 1976,98,80,Drama,John Carpenter,Turtle Releasing
+76,NO COUNTRY FOR OLD MEN 2007,93,86,Drama,Joel Coen,Miramax Films
+77,THE LORD OF THE RINGS: THE TWO TOWERS 2002,95,95,Drama,Peter Jackson,New Line Cinema
+78,LOOPER 2012,93,82,Action & Adventure,Rian Johnson,Sony Pictures
+79,THE RIGHT STUFF 1983,98,90,Action & Adventure,Rian Johnson,Sony Pictures
+80,THE FUGITIVE 1993,96,89,Drama,Andrew Davis,Warner Bros. Pictures
+81,"CROUCHING TIGER, HIDDEN DRAGON 2001",97,86,Drama,Ang Lee,Sony Pictures Classics
+82,WHO FRAMED ROGER RABBIT 1988,97,84,Action & Adventure,Robert Zemeckis,Buena Vista Distribution Compa
+83,MAD MAX 2: THE ROAD WARRIOR 1982,98,85,Action & Adventure,George Miller,Warner Bros. Pictures
+84,DIVA 1981,98,86,Drama,Jean-Jacques Beineix,Rialto Pictures
+85,ONE FALSE MOVE 1992,98,75,Drama,Carl Franklin,Sony Pictures Home Entertainment
+86,CATCH ME IF YOU CAN,96,89,Drama,Steven Spielberg,DreamWorks SKG
+87,SICARIO,92,85,Drama,Denis Villeneuve,Lionsgate
+88,IN THE LINE OF FIRE,96,79,Mystery & Suspense,Wolfgang Petersen,Sony Pictures Home Entertainment
+89,DR. NO,96,82,Action & Adventure,Terence Young,United Artists
+90,RAIDERS OF THE LOST ARK,95,96,Action & Adventure,Terence Young,United Artists
+91,X-MEN: DAYS OF FUTURE PAST,89,91,Action & Adventure,Bryan Singer,20th Century Fox
+92,FROM RUSSIA WITH LOVE,96,83,Action & Adventure,Terence Young,United Artists
+93,APOLLO 13,95,87,Drama,Ron Howard,Universal Pictures
+94,SUPERMAN,94,86,Drama,Ron Howard,Universal Pictures
+95,EMBRACE OF THE SERPENT (EL ABRAZO DE LA SERPIENTE),96,84,Art House & International,Ciro Guerra,Buffalo Films
+96,THE LORD OF THE RINGS: THE RETURN OF THE KING,93,86,Action & Adventure,Peter Jackson,New Line Cinema
+97,CLOSE ENCOUNTERS OF THE THIRD KIND,95,85,Action & Adventure,Peter Jackson,New Line Cinema
+98,WALLACE & GROMIT: THE CURSE OF THE WERE-RABBIT,95,79,Action & Adventure,Steve Box,Dreamworks
+99,THE KILLER,98,92,Drama,John Woo,Kino
+100,THE BOURNE ULTIMATUM,92,91,Drama,Paul Greengrass,Universal Pictures
+101,THE WILD BUNCH,94,91,Western,Sam Peckinpah,Warner Bros. Pictures
+102,THE SEVENTH SEAL (DET SJUNDE INSEGLET),93,93,Drama,Ingmar Bergman,Janus Films
+103,SPIDER-MAN 2,93,82,Action & Adventure,Sam Raimi,Sony Pictures
+104,HERO,95,87,Drama,Yimou Zhang,Miramax Films
+105,ENTER THE DRAGON,96,92,Drama,Robert Clouse,Warner Home Video
+106,DRIVE,92,79,Drama,Nicolas Winding Refn,FilmDistrict
+107,INSIDE OUT,98,89,Animation,Pete Docter,Disney/Pixar
+108,SNOW WHITE AND THE SEVEN DWARFS,98,78,Animation,David Hand,Walt Disney Pictures
+109,TOY STORY 3,99,89,Animation,Lee Unkrich,Walt Disney Pictures
+110,TOY STORY 2,100,86,Animation,John Lasseter,Buena Vista Pictures
+112,UP,98,90,Action & Adventure,Pete Docter,Walt Disney Pictures
+113,FINDING NEMO,99,86,Animation,Andrew Stanton,Walt Disney Pictures
+114,PINOCCHIO,100,72,Animation,Hamilton Luske,RKO
+115,FINDING DORY,94,84,Animation,Andrew Stanton,Walt Disney Pictures/PIXAR
+118,TOY STORY,100,92,Animation,John Lasseter,Buena Vista
+120,SHAUN THE SHEEP MOVIE,99,80,Comedy,Mark Burton,Lionsgate
+122,RATATOUILLE,96,87,Animation,Jan Pinkava,Disney/Pixar
+123,ONLY YESTERDAY,100,86,Drama,Isao Takahata,GKIDS
+124,HOW TO TRAIN YOUR DRAGON,98,91,Animation,Dean DeBlois,Paramount/DWA
+125,THE INCREDIBLES,97,75,Animation,Brad Bird,Buena Vista Pictures
+126,YELLOW SUBMARINE,97,84,Action & Adventure,George Dunning,Independent Pictures
+127,CHICKEN RUN,97,64,Drama,Peter Lord,Dreamworks Pictures
+128,BEAUTY AND THE BEAST,94,92,Animation,Gary Trousdale,Buena Vista
+129,MY LIFE AS A ZUCCHINI (MA VIE DE COURGETTE),98,87,Animation,Claude Barras,Rita Productions
+130,101 DALMATIANS,98,75,Animation,Clyde Geronimi,Buena Vista
+131,THE NIGHTMARE BEFORE CHRISTMAS,95,91,Animation,Henry Selick,Touchstone Pictures
+132,FANTASIA,96,83,Animation,James Algar,Walt Disney Productions
+133,"MONSTERS, INC.",96,90,Animation,Pete Docter,Buena Vista Distribution Compa
+134,THE LEGO BATMAN MOVIE,90,80,Action & Adventure,Chris McKay,Warner Bros. Pictures
+135,THE IRON GIANT,96,90,Animation,Brad Bird,Warner Bros. Pictures
+136,SONG OF THE SEA,99,92,Animation,Tomm Moore,GKIDS
+137,TOWER,99,89,Animation,Tomm Moore,GKIDS
+138,WHO FRAMED ROGER RABBIT,97,84,Animation,Tomm Moore,GKIDS
+139,THE LION KING,93,93,Drama,Roger Allers,Buena Vista
+140,ANOMALISA,92,70,Drama,Charlie Kaufman,Starburns Industries
+141,YOUR NAME. (KIMI NO NA WA.),97,94,Drama,Makoto Shinkai,FUNimation Films
+142,WALTZ WITH BASHIR,96,90,Documentary,Ari Folman,Sony Pictures Classics
+143,PERSEPOLIS,96,92,Drama,Marjane Satrapi,Sony Pictures Classics
+145,THE RED TURTLE (LA TORTUE ROUGE),94,80,Action & Adventure,Steve Box,Dreamworks
+146,THE SECRET WORLD OF ARRIETTY,95,85,Animation,Hiromasa Yonebayashi,Walt Disney Pictures
+147,ALADDIN,94,92,Action & Adventure,John Musker,Buena Vista Distribution Compa
+148,ERNEST & CÉLESTINE,97,88,Action & Adventure,John Musker,Buena Vista Distribution Compa
+149,FANTASTIC MR. FOX,92,85,Action & Adventure,John Musker,Buena Vista Distribution Compa
+150,ANTZ,94,52,Animation,Eric Darnell,Dreamworks
+151,FROZEN,90,85,Animation,Jennifer Lee,Walt Disney Pictures
+152,GHOST IN THE SHELL,96,89,Animation,Mamoru Oshii,Palm Pictures
+153,CORALINE,90,73,Action & Adventure,Henry Selick,Focus Features
+154,LADY AND THE TRAMP,93,80,Drama,Hamilton Luske,Buena Vista Pictures
+155,BAMBI,90,73,Animation,David Hand,RKO Radio Pictures
+156,HOW TO TRAIN YOUR DRAGON 2,91,89,Action & Adventure,Dean DeBlois,20th Century Fox
+157,PRINCESS MONONOKE (MONONOKE-HIME),93,94,Action & Adventure,Dean DeBlois,20th Century Fox
+158,BIG HERO 6,89,91,Animation,Chris Williams (IX),Walt Disney Pictures
+159,THE LITTLE MERMAID,92,88,Animation,John Musker,Walt Disney Pictures
+160,A BUG'S LIFE,92,72,Animation,John Lasseter,Buena Vista Pictures
+161,ARTHUR CHRISTMAS,92,76,Animation,Sarah Smith,Sony Pictures
+162,BOY AND THE WORLD (O MENINO E O MUNDO),95,77,Art House & International,Alê Abreu,GKIDS
+163,MARY AND MAX,95,92,Drama,Adam Elliot,IFC Films
+164,JAMES AND THE GIANT PEACH,92,65,Animation,Henry Selick,Buena Vista Pictures
+165,PONYO,91,83,Action & Adventure,Hayao Miyazaki,Walt Disney Pictures
+166,BOLT,89,73,Action & Adventure,Byron Howard,Walt Disney Pictures
+167,TANGLED,89,87,Animation,Nathan Greno,Walt Disney Pictures
+168,THE SIMPSONS MOVIE,88,77,Comedy,David Silverman,20th Century Fox
+169,SHREK,88,90,Animation,Vicky Jenson,Dreamworks
+170,SHREK 2,88,69,Animation,Conrad Vernon,DreamWorks SKG
+171,THE WIND RISES,88,85,Drama,Hayao Miyazaki,Walt Disney Pictures
+172,FRANKENWEENIE,87,70,Horror,Tim Burton,Walt Disney Pictures
+173,WINNIE THE POOH,91,80,Animation,Stephen J. Anderson,Walt Disney Pictures
+174,WHEN MARNIE WAS THERE,91,88,Drama,Hiromasa Yonebayashi,GKIDS
+175,THE PEANUTS MOVIE,87,76,Animation,Steve Martino,20th Century Fox
+176,KUNG FU PANDA,87,82,Action & Adventure,John Stevenson,Paramount Pictures
+177,THE ILLUSIONIST (L'ILLUSIONNISTE),90,79,Drama,Sylvain Chomet,Sony Pictures Classics
+178,RANGO,87,69,Action & Adventure,Gore Verbinski,Paramount Pictures
+179,AKIRA,87,90,Drama,Katsuhiro Ôtomo,Streamline Pictures
+180,TIM BURTON'S CORPSE BRIDE,84,77,Action & Adventure,Tim Burton,Warner Bros. Pictures
+181,SAUSAGE PARTY,82,50,Comedy,Conrad Vernon,Sony Pictures
+182,MULAN,86,85,Action & Adventure,Barry Cook,Buena Vista
+183,LILO & STITCH,86,77,Action & Adventure,Dean DeBlois,Buena Vista Distribution Compa
+184,THE EMPEROR'S NEW GROOVE,85,83,Animation,Mark Dindal,Buena Vista Pictures
+185,CHICO & RITA,87,77,Drama,Tono Errando,GKIDS
+186,PUSS IN BOOTS,84,67,Action & Adventure,Chris Miller,Paramount/Dreamworks
+187,ANASTASIA,85,77,Drama,Don Bluth,20th Century Fox
+188,BRAVE,79,76,Animation,Brenda Chapman,Walt Disney Pictures
+189,GET OUT,99,86,Horror,Jordan Peele,Universal Pictures
+190,ALL ABOUT EVE,100,94,Horror,Jordan Peele,Universal Pictures
+191,IT HAPPENED ONE NIGHT,98,93,Horror,Jordan Peele,Universal Pictures
+192,MODERN TIMES,100,95,Horror,Jordan Peele,Universal Pictures
+193,SINGIN' IN THE RAIN,100,95,Romance,Stanley Donen,MGM
+194,THE BIG SICK,98,88,Comedy,Michael Showalter,Amazon Studios
+195,A HARD DAY'S NIGHT,98,89,Comedy,Michael Showalter,Amazon Studios
+197,THE PHILADELPHIA STORY,100,93,Animation,Lee Unkrich,Walt Disney Pictures
+198,TOY STORY 2,100,86,Animation,Lee Unkrich,Walt Disney Pictures
+199,ZOOTOPIA,97,92,Animation,Lee Unkrich,Walt Disney Pictures
+200,LA LA LAND,91,81,Drama,Damien Chazelle,Liongate Films
+202,DR. STRANGELOVE OR HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB,99,94,Action & Adventure,Pete Docter,Walt Disney Pictures
+205,TOY STORY,100,92,Action & Adventure,Phil Lord,Warner Bros. Pictures
+206,COOL HAND LUKE,100,95,Action & Adventure,Phil Lord,Warner Bros. Pictures
+207,MONTY PYTHON AND THE HOLY GRAIL,97,95,Action & Adventure,Phil Lord,Warner Bros. Pictures
+208,PATERSON,96,71,Action & Adventure,Phil Lord,Warner Bros. Pictures
+209,BEFORE MIDNIGHT,98,82,Drama,Richard Linklater,Drafthouse Recommends
+210,THE GOLD RUSH,100,93,Classics,Charles Chaplin,Janus Films
+211,IT'S A WONDERFUL LIFE,94,95,Classics,Charles Chaplin,Janus Films
+213,LA DOLCE VITA,97,90,Comedy,Mark Burton,Lionsgate
+214,TO BE OR NOT TO BE,98,93,Comedy,Mark Burton,Lionsgate
+215,PLAYTIME,100,89,Art House & International,Jacques Tati,Continental Distributing
+216,ANNIE HALL,97,92,Comedy,Woody Allen,United Artists
+217,LOVE & FRIENDSHIP,97,60,Comedy,Woody Allen,United Artists
+218,MARY POPPINS,100,86,Comedy,Woody Allen,United Artists
+219,THE RULES OF THE GAME (LA RÈGLE DU JEU),98,90,Drama,Jean Renoir,Kino International
+220,RATATOUILLE,96,87,Drama,Jean Renoir,Kino International
+221,HIS GIRL FRIDAY,98,90,Drama,Jean Renoir,Kino International
+222,THE ARTIST,95,87,Drama,Jean Renoir,Kino International
+224,TAMPOPO,100,93,Art House & International,Juzo Itami,Itami Productions
+225,GENTLEMEN PREFER BLONDES,98,83,Romance,Howard Hawks,20th Century Fox
+228,8 1/2,98,92,Drama,Federico Fellini,Cinerez
+229,THE NICE GUYS,92,79,Drama,Federico Fellini,Cinerez
+230,PADDINGTON,98,80,Comedy,Paul King (VII),The Weinstein Company
+232,SPY,94,79,Comedy,Paul Feig,20th Century Fox
+233,LOGAN LUCKY,92,75,Comedy,Steven Soderbergh,Fingerprint Releasing / Bleecker Street
+235,AIRPLANE!,97,89,Animation,Clyde Geronimi,Buena Vista
+236,THE PLAYER,98,84,Drama,Robert Altman,Fine Line Features
+237,THE PRINCESS BRIDE,97,94,Action & Adventure,Rob Reiner,20th Century Fox
+238,GHOSTBUSTERS (1984 ORIGINAL),97,88,Action & Adventure,Ivan Reitman,Columbia Pictures
+239,SOME LIKE IT HOT,96,94,Action & Adventure,Ivan Reitman,Columbia Pictures
+240,DUCK SOUP,94,91,Classics,Leo McCarey,Paramount Pictures
+241,BIG,97,82,Classics,Leo McCarey,Paramount Pictures
+242,BRINGING UP BABY,95,90,Romance,Howard Hawks,Turner Home Entertainment
+243,DON'T THINK TWICE,98,69,Comedy,Mike Birbiglia,The Film Arcade
+244,"MONSTERS, INC.",96,90,Comedy,Mike Birbiglia,The Film Arcade
+245,MONTY PYTHON'S LIFE OF BRIAN,97,93,Comedy,Terry Jones,Warner Bros. Pictures
+246,BEFORE SUNRISE,100,93,Drama,Richard Linklater,Sony Pictures Home Entertainment
+247,THE APARTMENT,94,94,Drama,Billy Wilder,United Artists
+248,BACK TO THE FUTURE,96,94,Action & Adventure,Robert Zemeckis,Universal Pictures
+249,THE LEGO BATMAN MOVIE,90,80,Action & Adventure,Robert Zemeckis,Universal Pictures
+250,THE GRAND BUDAPEST HOTEL,91,86,Drama,Wes Anderson,Fox Searchlight
+251,GROUNDHOG DAY,96,88,Drama,Wes Anderson,Fox Searchlight
+252,SIDEWAYS,96,78,Drama,Alexander Payne,Fox Searchlight Pictures
+253,TANGERINE,97,76,Drama,Alexander Payne,Fox Searchlight Pictures
+254,THE EDGE OF SEVENTEEN,95,83,Drama,Kelly Fremon Craig,STX Entertainment
+255,WHAT WE DO IN THE SHADOWS,96,86,Drama,Taika Waititi,Paladin Pictures
+256,BULL DURHAM,97,82,Drama,Ron Shelton,Orion Pictures
+257,WHO FRAMED ROGER RABBIT,97,84,Drama,Ron Shelton,Orion Pictures
+258,MOONRISE KINGDOM,93,86,Comedy,Wes Anderson,Focus Features
+259,SENSE AND SENSIBILITY,98,90,Drama,Ang Lee,Columbia Pictures
+260,ENOUGH SAID,95,75,Drama,Nicole Holofcener,s
+262,LOST IN TRANSLATION,95,85,Drama,Sofia Coppola,Focus Features
+263,BRAZIL,98,90,Drama,Terry Gilliam,Universal Pictures
+264,BROADCAST NEWS,98,78,Drama,James L. Brooks,Twentieth Century Fox Home Entertainment
+265,THE BAND'S VISIT,98,86,Drama,James L. Brooks,Twentieth Century Fox Home Entertainment
+266,THE MUPPETS,95,80,Comedy,James Bobin,Walt Disney Pictures
+267,THE WIZARD OF OZ,98,89,Kids & Family,King Vidor,Warner Bros. Pictures
+268,CITIZEN KANE,100,90,Kids & Family,King Vidor,Warner Bros. Pictures
+269,THE THIRD MAN,99,93,Kids & Family,King Vidor,Warner Bros. Pictures
+270,THE CABINET OF DR. CALIGARI (DAS CABINET DES DR. CALIGARI),100,89,Horror,Robert Wiene,Rialto Pictures
+271,ALL ABOUT EVE,100,94,Horror,Robert Wiene,Rialto Pictures
+272,METROPOLIS,99,92,Drama,Fritz Lang,Paramount Pictures
+273,IT HAPPENED ONE NIGHT,98,93,Romance,Frank Capra,Sony Pictures Home Entertainment
+274,MODERN TIMES,100,95,Classics,Charles Chaplin,United Artists
+275,CASABLANCA,97,95,Drama,Michael Curtiz,Warner Bros. Pictures
+277,LAURA,100,90,Mystery & Suspense,Otto Preminger,20th Century Fox
+278,LA GRANDE ILLUSION (GRAND ILLUSION),97,92,Drama,Jean Renoir,Rialto Pictures
+279,PSYCHO,97,94,Horror,Alfred Hitchcock,Paramount Pictures
+280,A HARD DAY'S NIGHT,98,89,Musical & Performing Arts,Richard Lester,Miramax
+281,"NOSFERATU, A SYMPHONY OF HORROR (NOSFERATU, EINE SYMPHONIE DES GRAUENS) (NOSFERATU THE VAMPIRE)",97,87,Horror,F.W. Murnau,Film Arts Guild
+282,KING KONG,98,86,Action & Adventure,Ernest B. Schoedsack,RKO Pictures
+284,THE ADVENTURES OF ROBIN HOOD,100,89,Action & Adventure,Michael Curtiz,Warner Bros.
+285,NORTH BY NORTHWEST,99,94,Mystery & Suspense,Alfred Hitchcock,Turner Entertainment
+286,SUNSET BOULEVARD,98,95,Drama,Billy Wilder,Paramount Pictures
+287,REAR WINDOW,100,95,Drama,Alfred Hitchcock,Paramount Pictures
+288,THE PHILADELPHIA STORY,100,93,Drama,Alfred Hitchcock,Paramount Pictures
+289,SEVEN SAMURAI (SHICHININ NO SAMURAI),100,97,Drama,Akira Kurosawa,Columbia Pictures
+290,TOUCH OF EVIL,96,92,Drama,Orson Welles,October Films
+291,12 ANGRY MEN (TWELVE ANGRY MEN),100,97,Drama,Sidney Lumet,Criterion Collection
+292,THE 400 BLOWS (LES QUATRE CENTS COUPS),100,94,Drama,François Truffaut,Zenith International Films
+293,A STREETCAR NAMED DESIRE,98,90,Drama,François Truffaut,Zenith International Films
+294,VERTIGO,96,93,Drama,Alfred Hitchcock,Paramount Pictures
+295,LAWRENCE OF ARABIA,98,93,Drama,Alfred Hitchcock,Paramount Pictures
+296,DR. STRANGELOVE OR HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB,99,94,Classics,Stanley Kubrick,Sony Pictures
+297,ROSEMARY'S BABY,99,87,Horror,Roman Polanski,Paramount Pictures
+298,REBECCA,100,92,Drama,Alfred Hitchcock,United Artists
+299,FRANKENSTEIN,100,87,Horror,James Whale,Universal Pictures Company
+300,ON THE WATERFRONT,98,95,Drama,Elia Kazan,Sony Pictures
+301,THE GRAPES OF WRATH,100,88,Drama,Elia Kazan,Sony Pictures
+302,ROMAN HOLIDAY,98,94,Drama,William Wyler,Paramount Pictures
+303,THE LAST PICTURE SHOW,100,90,Drama,William Wyler,Paramount Pictures
+304,THE LADY VANISHES,98,88,Mystery & Suspense,Alfred Hitchcock,Gaumont British Picture Corporation
+305,COOL HAND LUKE,100,95,Drama,Stuart Rosenberg,Warner Bros.
+306,CHINATOWN,98,93,Drama,Roman Polanski,Paramount Pictures
+307,BATTLESHIP POTEMKIN,100,85,Drama,Sergei M. Eisenstein,Kino International
+308,ANATOMY OF A MURDER,100,90,Drama,Otto Preminger,Sony Pictures Home Entertainment
+311,RIO BRAVO,100,91,Classics,Charles Chaplin,Janus Films
+312,THE 39 STEPS,96,86,Classics,Charles Chaplin,Janus Films
+313,SWEET SMELL OF SUCCESS,98,92,Drama,Alexander Mackendrick,United Artists
+314,INVASION OF THE BODY SNATCHERS,98,85,Drama,Alexander Mackendrick,United Artists
+315,TO BE OR NOT TO BE,98,93,Drama,Alexander Mackendrick,United Artists
+316,THE BIG SLEEP,96,91,Drama,Howard Hawks,Warner Bros. Pictures
+317,MIRACLE ON 34TH STREET,96,86,Romance,George Seaton,20th Century Fox
+318,THE AFRICAN QUEEN,98,86,Romance,George Seaton,20th Century Fox
+319,MARY POPPINS,100,86,Kids & Family,Robert Stevenson,Walt Disney Productions
+320,CITIZEN KANE,100,90,Drama,Orson Welles,RKO Radio Pictures
+321,MOONLIGHT,98,79,Drama,Orson Welles,RKO Radio Pictures
+322,ALL ABOUT EVE,100,94,Drama,Orson Welles,RKO Radio Pictures
+323,METROPOLIS,99,92,Drama,Orson Welles,RKO Radio Pictures
+325,SPOTLIGHT,97,93,Mystery & Suspense,Tom McCarthy,Open Road Films
+326,SELMA,99,86,Mystery & Suspense,Tom McCarthy,Open Road Films
+327,CASABLANCA,97,95,Mystery & Suspense,Tom McCarthy,Open Road Films
+328,THE GODFATHER,98,98,Drama,Francis Ford Coppola,Paramount Pictures
+330,BOYHOOD,97,80,Drama,Richard Linklater,IFC Films
+331,THE BATTLE OF ALGIERS (LA BATTAGLIA DI ALGERI),99,95,Art House & International,Gillo Pontecorvo,Rialto Pictures
+332,ARRIVAL,94,82,Drama,Denis Villeneuve,21 Laps Entertainment
+334,12 YEARS A SLAVE,95,90,Drama,Steve McQueen (III),Fox Searchlight
+335,ARGO,96,90,Mystery & Suspense,Ben Affleck,Warner Bros. Pictures
+336,SUNSET BOULEVARD,98,95,Mystery & Suspense,Ben Affleck,Warner Bros. Pictures
+337,REAR WINDOW,100,95,Mystery & Suspense,Ben Affleck,Warner Bros. Pictures
+338,GRAVITY,95,80,Drama,Alfonso Cuarón,Warner Bros. Pictures
+339,ALIEN,97,94,Drama,Ridley Scott,20th Century Fox
+340,BABY DRIVER,93,86,Drama,Edgar Wright,Sony Pictures
+341,BICYCLE THIEVES (LADRI DI BICICLETTE),98,94,Drama,Vittorio De Sica,ENIC
+343,TAXI DRIVER,98,93,Mystery & Suspense,Martin Scorsese,Columbia Pictures
+345,MANCHESTER BY THE SEA,95,77,Drama,Kenneth Lonergan,Amazon Studios
+346,TOUCH OF EVIL,96,92,Drama,Kenneth Lonergan,Amazon Studios
+347,M,100,95,Drama,Fritz Lang,Foremco
+348,THE TREASURE OF THE SIERRA MADRE,100,93,Drama,Fritz Lang,Foremco
+349,12 ANGRY MEN (TWELVE ANGRY MEN),100,97,Drama,Fritz Lang,Foremco
+350,HELL OR HIGH WATER,97,88,Drama,Fritz Lang,Foremco
+353,ARMY OF SHADOWS (L'ARMÉE DES OMBRES),97,94,Art House & International,Jean-Pierre Melville,Rialto Pictures LLC.
+354,THE NIGHT OF THE HUNTER,98,90,Mystery & Suspense,Charles Laughton,United Artists
+356,BROOKLYN,97,87,Drama,John Crowley,Fox Searchlight Pictures
+357,THE BABADOOK,98,72,Drama,Jennifer Kent,IFC Films
+358,THE CONFORMIST,100,91,Art House & International,Bernardo Bertolucci,Paramount Pictures
+359,LAWRENCE OF ARABIA,98,93,Art House & International,Bernardo Bertolucci,Paramount Pictures
+363,THE DARK KNIGHT,94,94,Drama,Christopher Nolan,Warner Bros. Pictures/Legendary
+364,THE WRESTLER,98,88,Drama,Darren Aronofsky,Fox Searchlight Pictures
+365,L.A. CONFIDENTIAL,99,94,Drama,Darren Aronofsky,Fox Searchlight Pictures
+366,THE WAGES OF FEAR,100,95,Drama,Darren Aronofsky,Fox Searchlight Pictures
+367,TOKYO STORY (TÔKYÔ MONOGATARI),100,93,Art House & International,Yasujiro Ozu,BFI Production
+368,JAWS,97,90,Drama,Steven Spielberg,Universal Pictures
+370,CAROL,95,73,Drama,Todd Haynes,The Weinstein Company
+371,THE GRAPES OF WRATH,100,88,Drama,John Ford,Twentieth Century Fox Home Entertainment
+372,CREED,95,89,Drama,Ryan Coogler,Warner Bros.
+373,HARRY POTTER AND THE DEATHLY HALLOWS - PART 2,96,89,Drama,David Yates (II),Warner Bros. Pictures
+375,THE HURT LOCKER,97,84,Drama,Kathryn Bigelow,Summit Entertainment
+376,THE LAST PICTURE SHOW,100,90,Drama,Peter Bogdanovich,Columbia Pictures
+378,"THE GODFATHER, PART II",97,97,Mystery & Suspense,Francis Ford Coppola,Paramount Pictures
+381,WHIPLASH,94,94,Drama,Damien Chazelle,Sony Pictures Classics
+382,PATERSON,96,71,Drama,Jim Jarmusch,K5 International
+383,HIDDEN FIGURES,93,93,Drama,Jim Jarmusch,K5 International
+384,BATTLESHIP POTEMKIN,100,85,Drama,Jim Jarmusch,K5 International
+385,ANATOMY OF A MURDER,100,90,Drama,Jim Jarmusch,K5 International
+386,ROOM,94,93,Drama,Lenny Abrahamson,Element Pictures
+387,GONE WITH THE WIND,92,93,Drama,Victor Fleming,Loew's Inc.
+388,BEFORE MIDNIGHT,98,82,Drama,Victor Fleming,Loew's Inc.
+389,THE SEARCHERS,100,88,Western,John Ford,Warner Bros. Pictures
+390,NIGHTCRAWLER,95,85,Mystery & Suspense,Dan Gilroy,Open Road Films
+391,STAR TREK,94,91,Drama,J.J. Abrams,IMAX
+392,THINGS TO COME (L'AVENIR),100,70,Art House & International,Mia Hansen-Løve,IFC Films
+393,IT'S A WONDERFUL LIFE,94,95,Drama,Frank Capra,Liberty Films
+394,LA DOLCE VITA,97,90,Drama,Federico Fellini,American International Picture
+395,HER,95,82,Drama,Spike Jonze,Warner Bros. Pictures
+397,SCHINDLER'S LIST,97,97,Drama,Steven Spielberg,Universal Pictures
+398,TO BE OR NOT TO BE,98,93,Drama,Ernst Lubitsch,United Artists
+399,DOUBLE INDEMNITY,96,95,Drama,Billy Wilder,Paramount Pictures
+400,LET THE RIGHT ONE IN,98,90,Drama,Tomas Alfredson,Magnet/Magnolia Pictures
+403,THE AFRICAN QUEEN,98,86,Drama,John Huston,Twentieth Century Fox Home Entertainment
+404,LOVE & FRIENDSHIP,97,60,Drama,Whit Stillman,Roadside Attractions
+405,BEAUTY AND THE BEAST (LA BELLE ET LA BÊTE),95,90,Drama,Jean Cocteau,Lopert Pictures
+406,ONCE UPON A TIME IN THE WEST,98,95,Western,Sergio Leone,Paramount Pictures
+407,MUDBOUND,97,85,Drama,Dee Rees,Netflix
+408,MR. TURNER,97,56,Drama,Mike Leigh,Sony Pictures Classics
+410,APOCALYPSE NOW,96,94,Drama,Irvin Kershner,Twentieth Century Fox
+412,LA GRANDE ILLUSION (GRAND ILLUSION),97,92,Drama,Fritz Lang,Paramount Pictures
+413,THE BATTLE OF ALGIERS (LA BATTAGLIA DI ALGERI),99,95,Drama,Fritz Lang,Paramount Pictures
+419,THE CONFORMIST,100,91,Art House & International,Jean-Pierre Melville,Rialto Pictures LLC.
+422,THE CABINET OF DR. CALIGARI (DAS CABINET DES DR. CALIGARI),100,89,Horror,Jordan Peele,Universal Pictures
+423,"NOSFERATU, A SYMPHONY OF HORROR (NOSFERATU, EINE SYMPHONIE DES GRAUENS) (NOSFERATU THE VAMPIRE)",97,87,Horror,Jordan Peele,Universal Pictures
+428,IT FOLLOWS,97,66,Horror,David Robert Mitchell,Radius-TWC
+431,NIGHT OF THE LIVING DEAD,97,87,Horror,George A. Romero,Continental Distributing Inc.
+432,THE WITCH,91,57,Horror,Robert Eggers,A24 Films
+433,PAN'S LABYRINTH,95,91,Drama,Guillermo del Toro,Picturehouse
+434,EVIL DEAD 2: DEAD BY DAWN,98,89,Drama,Guillermo del Toro,Picturehouse
+435,THE BIRDS,96,83,Drama,Guillermo del Toro,Picturehouse
+436,THE SILENCE OF THE LAMBS,95,95,Mystery & Suspense,Jonathan Demme,Orion Pictures Corporation
+437,GOJIRA,93,89,Action & Adventure,Ishir Honda,Rialto Pictures
+438,HALLOWEEN,95,89,Mystery & Suspense,John Carpenter,Compass International Pictures
+439,DON'T LOOK NOW,96,77,Horror,Nicolas Roeg,Paramount Pictures
+440,THE VANISHING (SPOORLOOS),98,88,Drama,George Sluizer,20th Century Fox
+441,THE INNOCENTS,96,86,Horror,Jack Clayton,Fox
+442,THE CABIN IN THE WOODS,91,74,Mystery & Suspense,Drew Goddard,Lionsgate Films
+443,A GIRL WALKS HOME ALONE AT NIGHT,96,75,Horror,Ana Lily Amirpour,Vice Films
+444,DRAG ME TO HELL,92,62,Mystery & Suspense,Sam Raimi,Universal Pictures
+445,INVASION OF THE BODY SNATCHERS,94,81,Horror,Philip Kaufman,MGM Home Entertainment
+446,CARRIE,93,76,Horror,Brian DePalma,United Artists
+447,THE EVIL DEAD,95,84,Science Fiction & Fantasy,Sam Raimi,New Line Cinema
+448,YOUNG FRANKENSTEIN,93,92,Horror,Mel Brooks,20th Century Fox
+449,RE-ANIMATOR,95,82,Horror,Mel Brooks,20th Century Fox
+450,THE LOVED ONES,98,74,Horror,Mel Brooks,20th Century Fox
+451,TRAIN TO BUSAN (BUSANHAENG),96,88,Action & Adventure,Yeon Sang-ho,Redpeter Film
+452,NOSFERATU: PHANTOM DER NACHT (NOSFERATU THE VAMPYRE),94,83,Art House & International,Werner Herzog,20th Century Fox
+453,THE LOVE WITCH,95,60,Drama,Anna Biller,Oscilloscope Laboratories
+454,ROOM 237,94,55,Documentary,Rodney Ascher,IFC Films
+455,A NIGHTMARE ON ELM STREET,94,83,Mystery & Suspense,Wes Craven,New Line Cinema
+456,THE HOST,93,72,Drama,Bong Joon Ho,Magnolia Pictures
+457,THE FLY,92,83,Drama,David Cronenberg,Fox
+458,SHAUN OF THE DEAD,92,93,Action & Adventure,Edgar Wright,Focus Features
+459,ZOMBIELAND,90,86,Horror,Ruben Fleischer,Sony/Columbia Pictures
+460,DRACULA,91,81,Classics,Tod Browning,Universal Pictures
+461,WHAT EVER HAPPENED TO BABY JANE?,92,92,Drama,Robert Aldrich,Warner Bros. Pictures
+462,IT COMES AT NIGHT,87,44,Drama,Trey Edward Shults,A24
+463,DAWN OF THE DEAD,93,90,Drama,Trey Edward Shults,A24
+464,PHANTOM OF THE OPERA,91,83,Drama,Trey Edward Shults,A24
+465,DON'T BREATHE,88,78,Drama,Trey Edward Shults,A24
+466,WE ARE STILL HERE,95,48,Drama,Trey Edward Shults,A24
+467,THE WICKER MAN,90,82,Drama,Robin Hardy,LionsGate Entertainment
+468,THE TEXAS CHAINSAW MASSACRE,88,81,Classics,Tobe Hooper,Bryanston Pictures
+469,FRANKENWEENIE,87,70,Classics,Tobe Hooper,Bryanston Pictures
+470,THE BLAIR WITCH PROJECT,87,56,Classics,Tobe Hooper,Bryanston Pictures
+471,THE CONJURING,86,83,Mystery & Suspense,James Wan,Warner Bros. Pictures
+472,THE EXORCIST,86,87,Classics,William Friedkin,Warner Bros. Pictures
+473,THE DEAD ZONE,90,76,Horror,David Cronenberg,Paramount Pictures
+474,LET ME IN,87,76,Drama,Matt Reeves,Overture Films
+475,28 DAYS LATER,87,85,Drama,Matt Reeves,Overture Films
+476,MISERY,89,89,Drama,Rob Reiner,Columbia Pictures
+477,THE SHINING,86,93,Drama,Stanley Kubrick,Warner Bros. Pictures
+478,CRONOS,90,70,Drama,Guillermo del Toro,Trimark
+479,BONE TOMAHAWK,90,73,Western,S. Craig Zahler,Image Entertainment
+480,THE ORPHANAGE,87,86,Drama,J.A. Bayona,Picturehouse
+481,THE DEVIL'S CANDY,91,64,Drama,Sean Byrne,IFC Midnight
+482,GERALD'S GAME,90,72,Drama,Mike Flanagan,Netflix
+483,CHRONICLE,86,71,Drama,Mike Flanagan,Netflix
+484,AN AMERICAN WEREWOLF IN LONDON,88,85,Horror,John Landis,Universal Pictures
+485,NEAR DARK,88,74,Western,Kathryn Bigelow,Lions Gate Films
+486,POLTERGEIST,86,78,Horror,Tobe Hooper,MGM Home Entertainment
+487,HENRY: PORTRAIT OF A SERIAL KILLER,86,71,Drama,John McNaughton,GreyCat Films
+488,THE DESCENT,85,75,Horror,Neil Marshall,Lionsgate
+489,THE OMEN,86,80,Horror,Richard Donner,20th Century Fox
+490,GINGER SNAPS,89,78,Horror,Richard Donner,20th Century Fox
+491,SLITHER,86,63,Horror,James Gunn (II),Universal Pictures
+492,THE AUTOPSY OF JANE DOE,87,69,Art House & International,André Ovredal,IFC Films
+493,A FIELD IN ENGLAND,88,58,Drama,Ben Wheatley,Drafthouse Films
+494,BACKCOUNTRY,89,54,Drama,Adam MacDonald,IFC Films
+495,ALTERED STATES,86,71,Drama,Adam MacDonald,IFC Films
+496,"GOODNIGHT MOMMY (ICH SEH, ICH SEH)",85,65,Drama,Veronika Franz,Radius-TWC
+497,THE HOUSE OF THE DEVIL,87,63,Horror,Ti West,Magnolia Pictures
+498,SPRING,88,70,Horror,Aaron Moorhead,Drafthouse Films
+499,GREMLINS,84,78,Horror,Joe Dante,Warner Bros. Pictures
+500,PARANORMAL ACTIVITY,83,56,Mystery & Suspense,Oren Peli,Paramount Pictures
+501,THE THING,83,92,Mystery & Suspense,Oren Peli,Paramount Pictures
+502,WE ARE WHAT WE ARE,86,49,Drama,Jim Mickle,Entertainment One
+503,THEY LIVE,84,79,Drama,John Carpenter,MCA/Universal Pictures
+504,BEETLEJUICE,84,82,Horror,Tim Burton,Warner Bros. Pictures
+505,THE CONJURING 2,79,81,Horror,James Wan,Warner Bros. Pictures
+506,DRESSED TO KILL,84,74,Horror,James Wan,Warner Bros. Pictures
+507,THE OTHERS,83,77,Mystery & Suspense,Alejandro Amenábar,Miramax Films
+508,SANTA SANGRE,85,87,Drama,Alejandro Jodorowsky,Republic Pictures Home Video
+509,I AM NOT YOUR NEGRO,98,83,Documentary,Raoul Peck,Magnolia Pictures
+510,MAN ON WIRE,100,87,Documentary,James Marsh,Magnolia Pictures
+511,LIFE ITSELF,97,88,Documentary,Steve James (II),Magnolia Pictures
+512,20 FEET FROM STARDOM,99,82,Musical & Performing Arts,Morgan Neville,Radius-TWC
+513,THE LAST WALTZ,98,94,Musical & Performing Arts,Martin Scorsese,MGM
+514,AMY,95,87,Documentary,Asif Kapadia,A24 Films
+515,TAXI TO THE DARK SIDE,100,89,Documentary,Asif Kapadia,A24 Films
+516,KEDI,98,84,Documentary,Asif Kapadia,A24 Films
+519,THE THIRD MAN,99,93,Mystery & Suspense,Carol Reed,Rialto Pictures
+524,BADLANDS,98,91,Drama,Terrence Malick,Warner Bros. Pictures
+525,THE MANCHURIAN CANDIDATE,98,90,Drama,John Frankenheimer,MGM/UA Classics
+526,EYES WITHOUT A FACE,98,87,Drama,John Frankenheimer,MGM/UA Classics
+527,THE CONVERSATION,98,90,Drama,John Frankenheimer,MGM/UA Classics
+529,GOLDFINGER,97,89,Animation,Clyde Geronimi,Buena Vista
+530,SUNRISE: A SONG OF TWO HUMANS,98,92,Animation,Clyde Geronimi,Buena Vista
+531,EYE IN THE SKY,95,83,Animation,Clyde Geronimi,Buena Vista
+532,ALL IS LOST,94,63,Animation,Clyde Geronimi,Buena Vista
+533,CASINO ROYALE,94,89,Mystery & Suspense,Martin Campbell,Sony
+534,NO COUNTRY FOR OLD MEN,93,86,Drama,Joel Coen,Miramax Films
+535,BLOOD SIMPLE,94,88,Drama,Joel Coen,Miramax Films
+536,LOOPER,93,82,Drama,Joel Coen,Miramax Films
+537,THE BIRDS,96,83,Horror,Alfred Hitchcock,Universal Pictures
+538,THE FUGITIVE,96,89,Drama,Andrew Davis,Warner Bros. Pictures
+541,WHO FRAMED ROGER RABBIT,97,84,Action & Adventure,Robert Zemeckis,Buena Vista Distribution Compa
+542,BRIDGE OF SPIES,91,87,Mystery & Suspense,Steven Spielberg,Dreamworks Pictures
+543,MAD MAX 2: THE ROAD WARRIOR,98,85,Action & Adventure,George Miller,Warner Bros. Pictures
+544,DIVA,98,86,Drama,Jean-Jacques Beineix,Rialto Pictures
+545,ONE FALSE MOVE,98,75,Drama,Carl Franklin,Sony Pictures Home Entertainment
+546,JURASSIC PARK,91,91,Action & Adventure,Steven Spielberg,Universal City Studios
+549,ELEVATOR TO THE GALLOWS (ASCENSEUR POUR L'ÉCHAFAUD),93,91,Drama,Louis Malle,Rialto Pictures
+551,EX MACHINA,92,86,Drama,Alex Garland,A24 Films
+555,THREE COLORS: BLUE (TROIS COULEURS: BLEU),98,93,Drama,Krzysztof Kieslowski,Miramax Films
+556,IN THE HEAT OF THE NIGHT,96,92,Drama,Norman Jewison,MGM
+557,BLUE RUIN,96,79,Drama,Norman Jewison,MGM
+558,CLOSE ENCOUNTERS OF THE THIRD KIND,95,85,Action & Adventure,Steven Spielberg,Sony Pictures Releasing
+559,THE KILLER,98,92,Action & Adventure,Steven Spielberg,Sony Pictures Releasing
+562,BLUE VELVET,94,88,Mystery & Suspense,David Lynch,MGM
+563,TO CATCH A THIEF,95,84,Romance,Alfred Hitchcock,Paramount Pictures
+564,THE IMITATION GAME,90,91,Mystery & Suspense,Morten Tyldum,The Weinstein Company
+565,L'AVVENTURA,95,88,Mystery & Suspense,Morten Tyldum,The Weinstein Company
+567,GONE GIRL,87,87,Mystery & Suspense,David Fincher,20th Century Fox
+568,DIABOLIQUE (LES DIABOLIQUES),95,93,Mystery & Suspense,Henri-Georges Clouzot,Kino Lorber Inc.
+570,WILD TALES,95,92,Drama,Damián Szifron,Sony Pictures Classics
+571,10 CLOVERFIELD LANE,89,79,Drama,Dan Trachtenberg,Bad Robot Productions
+572,CHILDREN OF MEN,92,85,Drama,Alfonso Cuarón,Universal Pictures
+573,THE CRYING GAME,95,78,Drama,Alfonso Cuarón,Universal Pictures
+575,MISSION: IMPOSSIBLE GHOST PROTOCOL,93,76,Mystery & Suspense,Brad Bird,Paramount Studios
+576,THE DARK KNIGHT RISES,87,90,Drama,Christopher Nolan,Warner Bros. Pictures
+581,PINOCCHIO,100,72,Drama,Damien Chazelle,Liongate Films
+584,YELLOW SUBMARINE,97,84,Romance,Howard Hawks,20th Century Fox
+585,THE UMBRELLAS OF CHERBOURG (LES PARAPLUIES DE CHERBOURG),98,87,Romance,Howard Hawks,20th Century Fox
+586,BEAUTY AND THE BEAST,94,92,Romance,Howard Hawks,20th Century Fox
+589,SOME LIKE IT HOT,96,94,Drama,John Huston,United Artists
+592,SING STREET,95,92,Drama,John Carney,Likely Story
+593,ONCE,97,91,Musical & Performing Arts,John Carney,Fox Searchlight
+594,ANVIL! THE STORY OF ANVIL,98,90,Musical & Performing Arts,John Carney,Fox Searchlight
+596,WEST SIDE STORY,94,84,Drama,Robert Wise,United Artists Films
+597,WASTE LAND,100,90,Documentary,Lucy Walker,Arthouse Films
+598,AMADEUS,94,95,Musical & Performing Arts,Milos Forman,Warner Bros. Pictures
+599,AFGHAN STAR,100,76,Documentary,Havana Marking,Zeitgeist Films
+600,HAIRSPRAY,98,80,Drama,John Waters,New Line Home Entertainment
+601,SOUND CITY,100,90,Musical & Performing Arts,Dave Grohl,Variance Films
+602,WE ARE THE BEST!,96,78,Drama,Lukas Moodysson,Magnolia Pictures
+603,EVERYDAY SUNSHINE: THE STORY OF FISHBONE,100,85,Musical & Performing Arts,Chris Metzler,Pale Griot Films
+604,MY FAIR LADY,96,90,Kids & Family,George Cukor,Warner Bros. Pictures
+605,BILL CUNNINGHAM NEW YORK,99,92,Musical & Performing Arts,Richard Press,Zeitgeist Films
+606,WHAT'S LOVE GOT TO DO WITH IT?,96,88,Musical & Performing Arts,Brian Gibson,Touchstone Pictures
+607,ALADDIN,94,92,Musical & Performing Arts,Brian Gibson,Touchstone Pictures
+608,BEWARE OF MR. BAKER,98,86,Musical & Performing Arts,Jay Bulger,Independent Films
+609,KEEP ON KEEPIN' ON,98,88,Musical & Performing Arts,Alan Hicks,Radius-TWC
+610,WORDPLAY,95,80,Documentary,Patrick Creadon,IFC Films
+611,MUSCLE SHOALS,96,89,Documentary,Greg 'Freddy' Camalier,Magnolia Pictures
+612,THE FULL MONTY,96,79,Musical & Performing Arts,Peter Cattaneo,Twentieth Century Fox Home Entertainment
+613,MARLEY,95,90,Documentary,Kevin Macdonald,Magnolia Pictures
+614,SEARCHING FOR SUGAR MAN,94,92,Documentary,Kevin Macdonald,Magnolia Pictures
+615,HAIRSPRAY,91,84,Musical & Performing Arts,Adam Shankman,New Line Cinema
+616,LES PLAGES D'AGNÈS (THE BEACHES OF AGNES),96,88,Documentary,Agnès Varda,Cinema Guild
+617,EXIT THROUGH THE GIFT SHOP,95,91,Documentary,Banksy,Abarorama
+618,"20,000 DAYS ON EARTH",95,78,Documentary,Iain Forsyth,Drafthouse Films
+619,NASHVILLE,92,84,Drama,Robert Altman,Paramount Pictures
+620,CRUMB,95,89,Drama,Robert Altman,Paramount Pictures
+622,MARINA ABRAMOVIC: THE ARTIST IS PRESENT,96,89,Musical & Performing Arts,Matthew Akers,Music Box Films
+623,LOS ANGELES PLAYS ITSELF,96,85,Documentary,Thom Andersen,Submarine Entertainment
+624,49 UP,95,86,Documentary,Michael Apted,First Run Features
+625,STRAIGHT OUTTA COMPTON,88,91,Documentary,Michael Apted,First Run Features
+626,LAGAAN: ONCE UPON A TIME IN INDIA,95,93,Drama,Mansoor Khan,B4U Entertainment
+627,HEDWIG AND THE ANGRY INCH,93,93,Drama,John Cameron Mitchell,New Line Cinema
+628,CRAZY HEART,90,76,Drama,John Cameron Mitchell,New Line Cinema
+629,MY KID COULD PAINT THAT,94,78,Documentary,Amir Bar-Lev,Sony Pictures Classics
+630,END OF THE CENTURY: THE STORY OF THE RAMONES,95,93,Documentary,Jim Fields,Magnolia Pictures
+631,THE WRECKING CREW,94,84,Musical & Performing Arts,Denny Tedesco,Magnolia Pictures
+632,WILLY WONKA AND THE CHOCOLATE FACTORY,91,86,Classics,Mel Stuart,Paramount Pictures
+633,DAVE CHAPPELLE'S BLOCK PARTY,92,73,Documentary,Michel Gondry,Rogue Pictures
+634,THE SAPPHIRES,91,76,Drama,Wayne Blair,The Weinstein Company
+635,U2 3D,93,92,Musical & Performing Arts,Catherine Owens,National Geographic
+636,TANGLED,89,87,Musical & Performing Arts,Catherine Owens,National Geographic
+637,A BAND CALLED DEATH,94,85,Musical & Performing Arts,Jeff Howlett,Drafthouse Films
+638,FLORENCE FOSTER JENKINS,87,68,Drama,Stephen Frears,BBC Films
+639,THE SOUND OF MUSIC,86,91,Drama,Robert Wise,20th Century-Fox
+640,SCRATCH,93,93,Musical & Performing Arts,Doug Pray,Palm Pictures
+641,F FOR FAKE,88,89,Documentary,Orson Welles,Saguenay Films
+642,SHINE,91,90,Musical & Performing Arts,Scott Hicks,New Line Home Entertainment
+643,CAESAR MUST DIE,92,73,Documentary,Paolo Taviani,Adopt Films
+644,SID AND NANCY,87,76,Musical & Performing Arts,Alex Cox,New Line Cinema
+645,FIVE EASY PIECES,87,84,Drama,Bob Rafelson,Columbia Pictures
+646,BUENA VISTA SOCIAL CLUB,91,90,Musical & Performing Arts,Wim Wenders,Artisan Entertainment
